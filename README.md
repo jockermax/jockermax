@@ -26,3 +26,6 @@
 [![](https://visitcount.itsvg.in/api?id=jockermax&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![cmd](https://github.com/user-attachments/assets/242f9869-46b6-43ac-9e8a-9911047f8e8f)
+
