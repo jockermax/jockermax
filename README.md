@@ -1,6 +1,6 @@
 ## Hi nakamou
 # 💫 About Me:
-🔭 I’m currently studying at ISI<br>👯 I’m looking to work <br>🤝 I’m looking for help with a job<br>🌱 I’m currently learning springboot <br>💬 Ask me about everything in programming <br>⚡ Fun fact
+🔭 I’m currently studying at ISI<br>👯 I’m looking to work <br>🤝 I’m looking for help with a job<br>🌱 I’m currently learning springboot <br>💬 Ask me about Spring Boot <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
