@@ -1,6 +1,6 @@
 ## Hi nakamou
 # 💫 About Me:
-🔭 I’m currently studying at ISI<br>👯 I’m looking to work <br>🤝 I’m looking for help with a job<br>🌱 I’m currently learning springboot <br>💬 Ask me about Spring Boot <br>⚡ Fun fact
+🔭 I’m dev and BusinessMan<br>👯 CEO of Visit Mbour <br>🤝 I’m looking for partnership for tourism<br>🌱 I’m currently learning springboot <br>💬 Ask me about Visit Mbour <br>⚡ 
 
 
 ## 🌐 Socials:
