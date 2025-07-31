@@ -7,7 +7,7 @@
 ## 🚀 À propos de moi
 
 - 🎓 Étudiant en Master 1 (Bac+4) en **Data Science & ERP** à l’ISI
-- 🖥️ Développeur Full-Stack (Angular / Spring Boot)
+- 🖥️ Développeur Full-Stack (React / Spring Boot)
 - 💡 Créateur de la plateforme **Visit Mbour** — pour promouvoir le tourisme local à Mbour, Sénégal
 - 🧠 Curieux, rigoureux et engagé dans tout ce que j'entreprends
 - 🤝 Intéressé par les collaborations open source, les startups tech et les projets à impact
