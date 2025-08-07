@@ -20,7 +20,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehmed_Bamba_kane) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mouhamadoubambakane) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/MouhamadouBambaKane)  
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Project%20-%20Visit%20Mbour-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://visitmbour.com)
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Project%20-%20Visit%20Mbour-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.visitmbour.com)
 
 ---
 
