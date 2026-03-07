@@ -10,12 +10,12 @@ Je m’intéresse particulièrement à la configuration des ERP, à la modélisa
 
 ## 🚀 À propos de moi
 
-🎓 Ingénieur IT & Consultant ERP
-🖥️ Développeur Full-Stack (React, Angular / Spring Boot)
-🏢 ERP Enthusiast – Expérience en configuration Odoo ERP et modélisation des processus métier
-💡 Créateur de la plateforme Visit Mbour — une initiative visant à promouvoir le tourisme et la culture à Mbour, Sénégal
-🧠 Curieux, rigoureux et engagé dans chaque projet que j’entreprends
-🤝 Intéressé par les collaborations open source, les startups technologiques et les projets à impact
+ Ingénieur IT & Consultant ERP
+ Développeur Full-Stack (React, Angular / Spring Boot) 
+ ERP Enthusiast – Expérience en configuration Odoo ERP et modélisation des processus métier
+ Créateur de la plateforme Visit Mbour — une initiative visant à promouvoir le tourisme et la culture à Mbour, Sénégal
+ Curieux, rigoureux et engagé dans chaque projet que j’entreprends
+ Intéressé par les collaborations open source, les startups technologiques et les projets à impact
 
 ---
 
