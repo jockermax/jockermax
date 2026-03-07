@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 Développeur Full-Stack |ERP Enthusiast – Experience with Odoo ERP configuration and business process modeling
-    Bienvenue sur mon GitHub ! Je suis un développeur passionné par la technologie, l'innovation et l'impact social. Je combine mes compétences techniques avec une vision entrepreneuriale pour créer des solutions utiles, durables et accessibles.
+    Bienvenue sur mon GitHub ! Je suis un développeur et donsultant ERP passionné par la technologie, l'innovation et l'impact social. Je combine mes compétences techniques avec une vision entrepreneuriale pour créer des solutions utiles, durables et accessibles.
 
 ## 🚀 À propos de moi
 
