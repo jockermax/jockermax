@@ -1,12 +1,12 @@
 ## 👋 Salut, moi c’est Mouhamadou Bamba Kane
 
 # 💫 About Me:
-🔭 Développeur Full-Stack | Étudiant en Master Data Science & ERP | Entrepreneur sénégalais 
+🔭 Développeur Full-Stack |ERP Enthusiast – Experience with Odoo ERP configuration and business process modeling
     Bienvenue sur mon GitHub ! Je suis un développeur passionné par la technologie, l'innovation et l'impact social. Actuellement étudiant en Master à l’Institut Supérieur d’Informatique (ISI), je combine mes         compétences techniques avec une vision entrepreneuriale pour créer des solutions utiles, durables et accessibles.
 
 ## 🚀 À propos de moi
 
-- 🎓 Étudiant en Master 1 (Bac+4) en **Data Science & ERP** à l’ISI
+- 🎓 Ingénieur en IT, Consultant ERP
 - 🖥️ Développeur Full-Stack (React / Spring Boot)
 - 💡 Créateur de la plateforme **Visit Mbour** — pour promouvoir le tourisme local à Mbour, Sénégal
 - 🧠 Curieux, rigoureux et engagé dans tout ce que j'entreprends
