@@ -14,11 +14,6 @@ Bienvenue sur mon GitHub !<br>Je suis un développeur Full-Stack et consultant E
 ![](https://nirzak-streak-stats.vercel.app/?user=jockermax&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jockermax&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/jockermax/jockermax/blob/output/github-snake.svg)
-
-![Snake animation](https://github.com/jockermax/jockermax/blob/output/github-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jockermax&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
