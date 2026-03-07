@@ -1,18 +1,25 @@
 ## 👋 Salut, moi c’est Mouhamadou Bamba Kane
 
 # 💫 About Me:
-🔭 Développeur Full-Stack |ERP Enthusiast – Experience with Odoo ERP configuration and business process modeling
-    Bienvenue sur mon GitHub ! Je suis un développeur et donsultant ERP passionné par la technologie, l'innovation et l'impact social. Je combine mes compétences techniques avec une vision entrepreneuriale pour créer des solutions utiles, durables et accessibles.
+🔭 Full-Stack Developer | ERP Enthusiast | Odoo ERP
+
+Bienvenue sur mon GitHub !
+Je suis un développeur Full-Stack et consultant ERP passionné par la technologie, l’innovation et les systèmes d’information d’entreprise.
+
+Je m’intéresse particulièrement à la configuration des ERP, à la modélisation des processus métier et au développement d’applications web modernes. Mon objectif est de combiner compétences techniques et vision entrepreneuriale afin de concevoir des solutions numériques utiles, durables et accessibles.
 
 ## 🚀 À propos de moi
 
-- 🎓 Ingénieur en IT, Consultant ERP
-- 🖥️ Développeur Full-Stack (React, Angular / Spring Boot)
-- 💡 Créateur de la plateforme **Visit Mbour** — pour promouvoir le tourisme local à Mbour, Sénégal
-- 🧠 Curieux, rigoureux et engagé dans tout ce que j'entreprends
-- 🤝 Intéressé par les collaborations open source, les startups tech et les projets à impact
+🎓 Ingénieur IT & Consultant ERP
+🖥️ Développeur Full-Stack (React, Angular / Spring Boot)
+🏢 ERP Enthusiast – Expérience en configuration Odoo ERP et modélisation des processus métier
+💡 Créateur de la plateforme Visit Mbour — une initiative visant à promouvoir le tourisme et la culture à Mbour, Sénégal
+🧠 Curieux, rigoureux et engagé dans chaque projet que j’entreprends
+🤝 Intéressé par les collaborations open source, les startups technologiques et les projets à impact
 
 ---
+
+📊 Intéressé par les ERP, la Data et les systèmes d'information d’entreprise
 
 ## 🌐 Connect With Me:
 
