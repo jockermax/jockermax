@@ -2,12 +2,12 @@
 
 # 💫 About Me:
 🔭 Développeur Full-Stack |ERP Enthusiast – Experience with Odoo ERP configuration and business process modeling
-    Bienvenue sur mon GitHub ! Je suis un développeur passionné par la technologie, l'innovation et l'impact social. Actuellement étudiant en Master à l’Institut Supérieur d’Informatique (ISI), je combine mes         compétences techniques avec une vision entrepreneuriale pour créer des solutions utiles, durables et accessibles.
+    Bienvenue sur mon GitHub ! Je suis un développeur passionné par la technologie, l'innovation et l'impact social. Je combine mes compétences techniques avec une vision entrepreneuriale pour créer des solutions utiles, durables et accessibles.
 
 ## 🚀 À propos de moi
 
 - 🎓 Ingénieur en IT, Consultant ERP
-- 🖥️ Développeur Full-Stack (React / Spring Boot)
+- 🖥️ Développeur Full-Stack (React, Angular / Spring Boot)
 - 💡 Créateur de la plateforme **Visit Mbour** — pour promouvoir le tourisme local à Mbour, Sénégal
 - 🧠 Curieux, rigoureux et engagé dans tout ce que j'entreprends
 - 🤝 Intéressé par les collaborations open source, les startups tech et les projets à impact
