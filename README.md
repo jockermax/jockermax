@@ -19,7 +19,7 @@ Je m’intéresse particulièrement à la configuration des ERP, à la modélisa
 
 ---
 
-📊 Intéressé par les ERP, la Data et les systèmes d'information d’entreprise
+📊 Intéressé par les ERP, la Data et les systèmes d'information d’entreprise ? Let's Discuss 
 
 ## 🌐 Connect With Me:
 
